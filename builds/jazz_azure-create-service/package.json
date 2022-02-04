@@ -31,7 +31,7 @@
     "@azure/arm-resources": "1.1.0",
     "@azure/arm-servicebus": "3.2.0",
     "@azure/arm-storage": "*",
-    "azure-storage": "^2.10.2",
+    "azure-storage": "^2.10.6",
     "escape-json-node": "^2.0.0",
     "form-data": "^2.3.3",
     "mime-types": "^2.1.21",
