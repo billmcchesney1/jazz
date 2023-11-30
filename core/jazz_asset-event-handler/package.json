@@ -22,7 +22,7 @@
         "chai": "^3.5.0",
         "chai-as-promised": "^7.1.1",
         "es6-promise": "^2.3.0",
-        "lambda-local": "^1.5.0",
+        "lambda-local": "^2.0.0",
         "nyc": "^13.3.0",
         "mocha": "^v3.0.0",
         "sinon": "^6.1.4",
