@@ -10,7 +10,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "mocha": "^v3.0.0",
+    "mocha": "^6.0.0",
     "chai": "^3.5.0"
   }
 }
