@@ -19,7 +19,7 @@
     "@azure/ms-rest-nodeauth": "*",
     "moment-timezone": "*",
     "moment-duration-format": "*",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "request": "*"
   },
   "devDependencies": {
