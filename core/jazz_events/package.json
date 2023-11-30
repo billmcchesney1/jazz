@@ -18,7 +18,7 @@
         "chai": "^3.5.0",
         "istanbul": "^0.4.5",
         "mocha": "^v3.0.0",
-        "nock": "^9.0.2",
+        "nock": "^10.0.0",
         "aws-lambda-mock-context": "^3.1.1",
         "aws-sdk": "*",
         "nyc": "^13.3.0",
