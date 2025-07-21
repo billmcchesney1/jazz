@@ -33,7 +33,7 @@
     "@azure/arm-storage": "*",
     "azure-storage": "^2.10.2",
     "escape-json-node": "^2.0.0",
-    "form-data": "^2.3.3",
+    "form-data": "^2.5.5",
     "mime-types": "^2.1.21",
     "minimist": "^1.2.0",
     "request": "^2.88.0",
